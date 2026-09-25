@@ -74,3 +74,11 @@ Open an issue on this repository. Balance feedback is wanted as much as bug repo
 - HnS Dev Team, RH Hideout, NecroDingo and Jaizu.
 
 Pokémon is Nintendo, Creatures and Game Freak's. This is a free fan patch and is not affiliated with them.
+
+## AI Disclaimer
+
+- Being upfront, AI coding was used during the process. I made a 10,000-line design document, and with Claude we split it into 42 phases. Each phase was built by Claude, then tested, reviewed and validated by me.
+- I also used Claude for text placeholders, which I rewrote completely one by one.
+- I reviewed and validated everything that went in.
+- **No art, music or maps are AI.** Those are mine, pret's, RH Hideout's and Pokémon Heart & Soul's, credited in the README.
+- I'll let the community judge it on whether it's any good. I preferred to be upfront about it.
