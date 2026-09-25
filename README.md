@@ -26,7 +26,7 @@ The patch is useless without your own ROM. No ROM is distributed here.
 
 - You are Emerald's Champion and Norman resigns and hands you Petalburg Gym.
 - Pick your gym's type
-- 48 challengers every seasons with teams generated and authored for challenging matches.
+- 24 challengers every seasons with teams generated and authored for challenging matches.
 - Climb the Gym ladder rank until you reach the top.
 - Fainting can cost an injury, and an injured Pokémon misses the next match day.
 - Hire staff, build facilities, scout challengers and pay for training.
@@ -80,5 +80,5 @@ Pokémon is Nintendo, Creatures and Game Freak's. This is a free fan patch and i
 - Being upfront, AI coding was used during the process. I made a 10,000-line design document, and with Claude we split it into 42 phases. Each phase was written by Claude, then tested, reviewed and validated by me.
 - I also used Claude for text placeholders, which I rewrote completely one by one.
 - I reviewed and validated everything that went in.
-- **No art, music or maps are AI.** Those are mine, pret's, RH Hideout's and Pokémon Heart & Soul's, credited in the README.
+- **No art, music or maps are AI.** The title screen is mine and everything else is pret's, RH Hideout's and Pokémon Heart & Soul's, credited in the README.
 - I'll let the community judge it on whether it's any good. I preferred to be upfront about it.
