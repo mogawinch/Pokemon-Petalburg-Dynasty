@@ -15,7 +15,7 @@ You need your own copy of **Pokémon Emerald (USA, Europe), revision 0**.
 | md5 | `605b89b67018abcea91e693a4dd25be3` |
 | size | 16,777,216 bytes |
 
-Apply `petalburg-dynasty-1.0.bps` to it with any BPS patcher:
+Download `petalburg-dynasty-1.0.bps` from the [Releases page](../../releases/latest) and apply it to your ROM with any BPS patcher:
 
 - [Flips](https://www.romhacking.net/utilities/1040/) on desktop
 - [rom-patcher.js](https://www.marcrobledo.com/RomPatcher.js/) in a browser, nothing to install
