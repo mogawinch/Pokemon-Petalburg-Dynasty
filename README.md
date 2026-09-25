@@ -77,7 +77,7 @@ Pokémon is Nintendo, Creatures and Game Freak's. This is a free fan patch and i
 
 ## AI Disclaimer
 
-- Being upfront, AI coding was used during the process. I made a 10,000-line design document, and with Claude we split it into 42 phases. Each phase was built by Claude, then tested, reviewed and validated by me.
+- Being upfront, AI coding was used during the process. I made a 10,000-line design document, and with Claude we split it into 42 phases. Each phase was written by Claude, then tested, reviewed and validated by me.
 - I also used Claude for text placeholders, which I rewrote completely one by one.
 - I reviewed and validated everything that went in.
 - **No art, music or maps are AI.** Those are mine, pret's, RH Hideout's and Pokémon Heart & Soul's, credited in the README.
