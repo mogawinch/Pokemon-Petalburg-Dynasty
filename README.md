@@ -6,6 +6,8 @@ A career sim built on Pokémon Emerald.
 
 ![Title screen](title.png)
 
+Discord: https://discord.gg/qzmhRVbTR
+
 ## Install
 
 You need your own copy of **Pokémon Emerald (USA, Europe), revision 0**.
