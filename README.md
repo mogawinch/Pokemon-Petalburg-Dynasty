@@ -6,7 +6,7 @@ A career sim built on Pokémon Emerald.
 
 ![Title screen](title.png)
 
-Discord: https://discord.gg/qzmhRVbTR
+Discord: https://discord.gg/7BvfREKyCC
 
 ## Install
 
